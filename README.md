@@ -1,3 +1,17 @@
+Frontend da aplicação Tipy, para pagamento de Tips/Gorjetas a artistas
+
+Node.js<br >
+React<br >
+React Native<br >
+
+*********
+
+<img src="https://www.cuby.com.br/cli/tipy/logo.svg">
+
+This project consists of a web and mobile application for tipping artists.
+
+*********
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
