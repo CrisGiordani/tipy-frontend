@@ -6,6 +6,8 @@ import { Provider } from "react-redux";
 import "./config/ReactotronConfig";
 
 import "react-toastify/dist/ReactToastify.css";
+import "react-perfect-scrollbar/dist/css/styles.css";
+
 import "./global.css";
 
 import Routes from "./routes";
